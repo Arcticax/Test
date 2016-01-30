@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head>
+  <title>Bahamuts Voice Crafting</title>
+  <meta name='author' content='Tom "Arctica" Alvey' />
+<body>
+Please see our crafted items below!
+<table>
+  <thead>
+    <th>Item </th>
+    <th>Cost</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img style="-webkit-user-select: none" src="http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e1/e14cb24db9cfc85011b05858f9df6e1973e668b4.png?1445934869">, 928,000Gil</td>
+    </tr>
+    <tr>
+      <td><img src="http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/74/74d0cd6df2bdc70d1e6d3a5b8db8658f56416b4b.png?1445934868" width="128" height="128" alt="" class="ic_reflection sys_nq_element">, 560,000Gil</td>
+    </tr>
+  </tbody>
+</table>
+</body>
