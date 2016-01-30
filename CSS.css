@@ -1,3 +1,11 @@
+/* HTML ELEMENTS */
 body { font-family: sans-serif; }
+table, td, th { border: 1px solid gray; }
+
+/* CLASSES */
 .greenBackground { background: green; }
 .redBackground { background: red; }
+.blackBackground { background: black; }
+.whiteText { color: #FFF; }
+.middle { margin-left: auto; margin-right: auto; }
+.50width { width: 50%; height: 50%; }
