@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <head>
+  <center>
   <link rel="stylesheet" href="csstest.css">
   <title>Bahamuts Voice Crafting</title>
   <meta name='author' content='Tom "Arctica" Alvey' />
-<body style='font-family: sans-serif;'>
+<body style='font-family: sans-serif;'bgcolor="black"TEXT="white">
 Please see our crafted items below!
+<br>
+</br>
 <table style='border-radius: 10px; padding: 2px;' border = "1">
   <thead>
     <th>Item </th>
@@ -31,6 +34,12 @@ Please see our crafted items below!
         1,560,000<sup><b>Gil</b></sup>
       </td>
     </tr>
+<tr>
+  <td class="greenBackground">
+    <center>
+      <img src="http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4e/4e598d806e17fbcfd3e56c39c2f452aa1ad1709c.png?1445934869" width="50%" height="50%" alt="" class="ic_reflection sys_nq_element">
+    </center>
+    <td>
+      725,000<sup><b>Gil</b></sup>
+    </td>
   </tbody>
-</table>
-</body>
