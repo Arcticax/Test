@@ -1,0 +1,9 @@
+/* HTML ELEMENTS */
+body { font-family: sans-serif; }
+table, td, th { border: 1px solid gray; }
+.itemInstock { background: green; }
+.itemOutofStock { background: red; }
+.blackBackground { background: black; }
+.whiteText { color: #FFF; }
+.middle { text-align: center; }
+.50width { width: 50%; height: 50%; }
